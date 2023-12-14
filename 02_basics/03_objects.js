@@ -1,6 +1,24 @@
+
 // singleton :- if any of constructor use it makes singleton object.
 // jb bhi hm literal ki trh declare karte he to singleton nahi banta he
 //Object.create
+// object literals 
+
+// singleton :- if any of constructor use it makes singleton object.
+// jb bhi hm literal ki trh declare karte he to singleton nahi banta he
+//Object.create
+
+const JsUser = {
+    name:"Deepraj",
+    age: 18,
+    location: "Indore",
+    email: "deeprajgole@gmail.com",
+    isLoggedIn: false,
+    isLoginDays: ["Monday", "Saturday"]
+}
+
+console.log(JsUser.age);
+
 
 // object literals 
 

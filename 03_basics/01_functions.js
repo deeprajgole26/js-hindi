@@ -54,8 +54,8 @@ handleObject({
 
 const myNewArray = [200, 400, 100, 600]
 
-function retrunSecondValue(getArray){
+function returnSecondValue(getArray){
     return getArray[1]
 }
-// console.log(retrunSecondValue(myNewArray));
-console.log(retrunSecondValue([200, 400, 500, 1000]));
+// console.log(returnSecondValue(myNewArray));
+console.log(returnSecondValue([200, 400, 500, 1000]));
