@@ -16,3 +16,7 @@ do {
     console.log(`Score is ${score}`);
     score++
 } while (score <= 10);
+/* var cars=[ 
+    'Benz', 'Innova', 'ambassedor', 'BMW', 'Audi', 'Breeza', 'Etios', 'Dzire']; 
+        cars.splice(2, 2); 
+        console.log("cars :", cars, "<br><br>");  */
